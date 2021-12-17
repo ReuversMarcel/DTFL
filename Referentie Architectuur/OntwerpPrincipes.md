@@ -20,7 +20,7 @@ In dit hoofdstuk wordt de constructie, de architectuur en en de ontwerpprincipes
 </aside> 
 
 •	Overzicht en verantwoording herkomst, door datahouder toegestane gebruikscondities, en gebruiksnut gebruikte datasets 
-(Ton, obv EU digital rights/principles)  
+(Ton, obv EU digital rights/principles) Hello
 •	Aansluiting op dataspaces tbv het ophalen van data (Ton, obv EU dataspaces)  
 •	Aansluiting op dataspaces tbv het herbruikbaar delen van uitkomsten, (Ton, obv EU dataspaces)  
 •	Bij delen van uitkomsten naar een dataspace het meegeven van eventuele gestelde condities/voorwaarden voor hergebruik, en 'geërfde' voorwaarden obv gebruikte ingangsdata zoals share-alike voorwaarden (Ton, obv dataspaces)  
